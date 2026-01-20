@@ -41,3 +41,9 @@ https://imeshsp1.github.io/portfolio-project/
 
 ## 📂 Project Structure
 
+portfolio-project/
+├── client/ # React frontend
+├── server/ # Node.js backend
+├── README.md
+└── .gitignore
+
